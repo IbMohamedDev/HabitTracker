@@ -7,10 +7,10 @@ I've used this adivce in my own life for many years to build better habits (like
 
 # The website includes:
 
-a fully functioning calendar utilizing the date-fns libary
-functionality to click and a save a red X on calander dates (streaks)
-a CRUD to do list
-localStorage to save user information
+- a fully functioning calendar utilizing the date-fns libary
+- functionality to click and a save a red X on calander dates (streaks)
+- a CRUD to do list
+- localStorage to save user information
 
 
 # React JS, JavaScript, Tailwind CSS,
